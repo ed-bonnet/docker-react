@@ -20,7 +20,7 @@ class App extends Component {
             href = "https://reactjs.org"
             target = "_blank"
             rel = "noopener noreferrer" >
-            On efface tout! <
+            Cette fois ça fonctionne! <
             /a> < /
             header > <
             /div>
